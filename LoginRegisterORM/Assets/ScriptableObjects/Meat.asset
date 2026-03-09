@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de0286629db65f54eaf80f069709eb55, type: 3}
+  m_Name: Meat
+  m_EditorClassIdentifier: 
+  itemName: Meat
+  itemDesc: ...Where did this come from?
+  itemImg: {fileID: 21300000, guid: 430920ac395b96d4191dcb8a1e3570f7, type: 3}
+  isGold: 0
+  itemID: 1
+  stackSize: 99
